@@ -16,3 +16,4 @@ https://github.com/RahmatjonIbrohimov/Weather-Django-App
 python manage.py runserver
 ```
 ## qidiruv qismiga shahar nomini ingliz tilida kiriting!
+![Screenshot 2023-08-08 221029](https://github.com/RahmatjonIbrohimov/Django-Weather-App/assets/128359200/9cbd415a-f642-465e-94d3-a45635b8db5e)
